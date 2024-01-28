@@ -48,7 +48,7 @@ To compile the project, follow these steps:
 
 3. Compile the C source files using GCC:
    ```bash
-   gcc lexPhase.c lex.yy.c syntaxAna.tab.c -o my_compiler
+   gcc lex.yy.c syntaxAna.tab.c -o my_compiler
    ```
 
 4. Run the compiled executable:
